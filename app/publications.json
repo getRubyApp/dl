@@ -1,0 +1,14 @@
+{
+"publications": [
+  {
+    "website": "cnn.com",
+    "name": "CNN",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Cnn_logo_red_background.png"
+  },
+  {
+    "website": "foxnews.com",
+    "name": "Fox News",
+    "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/1024px-Fox_News_Channel_logo.svg.png"
+  }
+]
+}
